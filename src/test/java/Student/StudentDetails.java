@@ -6,6 +6,7 @@ public class StudentDetails {
 		System.out.println("hi");
 		System.out.println("How are you?");
 		System.out.println("Shiny's change");
+		System.out.println("Shiny's change2");
 
 	}
 
