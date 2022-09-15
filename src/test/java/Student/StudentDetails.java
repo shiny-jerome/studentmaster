@@ -7,6 +7,7 @@ public class StudentDetails {
 		System.out.println("How are you?");
 		System.out.println("Shiny's change");
 		System.out.println("Shiny's change2");
+		System.out.println("Shiny's change3");
 
 	}
 
